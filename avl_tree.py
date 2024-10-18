@@ -143,4 +143,3 @@ keys = [10, 20, 30, 25, 28, 27, -1, 5, 700, 12]
 
 for key in keys:
     root = insert(root, key)
-
